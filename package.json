@@ -1,0 +1,14 @@
+{
+  "name": "coderetreat-starting-setup-javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "./test.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jasmine": "^2.8.0",
+    "jshint": "^2.9.5"
+  }
+}
